@@ -1,6 +1,10 @@
 # About C2L
 Chromebook2Lumia, also known as C2L is a tool to install apps or install WUT onto your Lumia!
 
+# How To Download?
+Click the link:
+https://bit.ly/purplephone
+
 # Setup
 1. Enable Developer Mode on the Lumia
 2. Enable Device Discovery
